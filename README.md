@@ -1,3 +1,5 @@
+Redhat Intern Project - Summer 2020
+
 # gstreamer-py-plugin
 
 # Clone repo
